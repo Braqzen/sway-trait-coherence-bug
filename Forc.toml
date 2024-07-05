@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "./contracts/contract-a",
+  "./contracts/contract-b",
+  "./libraries",
+]
